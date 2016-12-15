@@ -1,4 +1,3 @@
-WARNING: no script file global.ded
 WARNING: no script file final_lexicon.txt.ded
 Missing Words
 -------------
@@ -391,43 +390,44 @@ Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
 final_lexico    179178       7160     182613       7796
-        dict      7160       7160       7796       7796
+     dictnew      7160       7160       7796       7796
 
 7544 words required, 384 missing
 
 New Phone Usage Counts
 ---------------------
   1. a     :  8677
-  2. b     :  1482
-  3. d     :  1650
-  4. i     :  4274
-  5. ai    :   199
-  6. k     :  2598
-  7. n     :  3621
-  8. ng    :  1186
-  9. y     :   374
- 10. s     :  2599
- 11. @     :  3024
- 12. l     :  1923
- 13. u     :  2608
- 14. h     :  1123
- 15. r     :  3163
- 16. m     :  2536
- 17. p     :  1692
- 18. o     :  1949
- 19. e     :  2039
- 20. g     :   719
- 21. ny    :   604
- 22. t     :  2417
- 23. z     :   183
- 24. c     :   405
- 25. kh    :   109
- 26. w     :   460
- 27. j     :   591
- 28. f     :   586
- 29. sy    :   121
- 30. q     :    10
- 31. oi    :    21
- 32. au    :    79
+  2. sp    :  7796
+  3. b     :  1482
+  4. d     :  1650
+  5. i     :  4274
+  6. ai    :   199
+  7. k     :  2598
+  8. n     :  3621
+  9. ng    :  1186
+ 10. y     :   374
+ 11. s     :  2599
+ 12. @     :  3024
+ 13. l     :  1923
+ 14. u     :  2608
+ 15. h     :  1123
+ 16. r     :  3163
+ 17. m     :  2536
+ 18. p     :  1692
+ 19. o     :  1949
+ 20. e     :  2039
+ 21. g     :   719
+ 22. ny    :   604
+ 23. t     :  2417
+ 24. z     :   183
+ 25. c     :   405
+ 26. kh    :   109
+ 27. w     :   460
+ 28. j     :   591
+ 29. f     :   586
+ 30. sy    :   121
+ 31. q     :    10
+ 32. oi    :    21
+ 33. au    :    79
 
-Dictionary dict created
+Dictionary dictnew created
