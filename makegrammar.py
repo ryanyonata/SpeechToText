@@ -1,5 +1,5 @@
 rname = "dictnew"
-wname = "hlist"
+wname = "grammar"
 
 listsGrammar = []
 
